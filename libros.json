@@ -1,0 +1,12 @@
+[
+    {"id":1, "titulo": "Las Señoritas","autor": "Laura Ramos", "precio": 2000, "cantidad": 1},
+    {"id":2, "titulo": "La Tia Cosima","autor": "Florencia Bonelli", "precio": 1800, "cantidad": 1},
+    {"id":3, "titulo": "El Alquimista","autor": "Paulo Coelho", "precio": 1500, "cantidad": 1},
+    {"id":4, "titulo": "El Barrio de los Locos","autor": "Roberto D Anna", "precio": 1500, "cantidad": 1},
+    {"id":5, "titulo": "1810","autor": "Felipe Pigna", "precio": 1000, "cantidad": 1},
+    {"id":6, "titulo": "El Psicoanalista"," autor": "John Katzenbach", "precio": 1300, "cantidad": 1},
+    {"id":7, "titulo": "Puerto Belgrano","autor": "Juan Terranova", "precio": 1100, "cantidad": 1},
+    {"id":8, "titulo": "El Duelo","autor": "Juan Terranova", "precio": 1100, "cantidad": 1},
+    {"id":9, "titulo": "Flores siempre es Bello","autor": "Roberto D Anna", "precio": 2200, "cantidad": 1}
+
+]
